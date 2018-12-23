@@ -1,0 +1,22 @@
+#after{
+		color: red;
+		position: absolute;
+		top: 30%;
+		left: 30%;
+		font-size: 120px;
+	}
+	.score{
+		position: absolute;
+		top: 12%;
+		right: 25%;
+		display: flex;
+	}
+	#canvas{
+		position: absolute;
+		top: 15%;
+		left: 20%;
+		border: 2px solid seagreen;
+	}
+	h1{
+		color: seagreen;
+	}
